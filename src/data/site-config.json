@@ -1,120 +1,112 @@
 {
-  "is_paid": false,
   "metadata": {
-    "title": "Modern Ajans Pro",
-    "description": "Profesyonel dijital çözümler."
+    "title": "İzmir Web Tasarım ve Yazılım Ajansı | Kurumsal Çözümler",
+    "description": "İzmir merkezli profesyonel web tasarım ve yazılım hizmetleri. Küçük işletmeler ve girişimciler için modern, hızlı ve kullanıcı odaklı web siteleri oluşturuyoruz."
   },
   "theme": {
     "colors": {
-      "primary": "#2563eb",
-      "secondary": "#1e40af",
-      "background": "#0f172a",
-      "text": "#f8fafc"
+      "primary": "#0A3D62",
+      "secondary": "#3C6382",
+      "background": "#F7F9FA",
+      "text": "#121212"
     },
     "fonts": {
-      "heading": "Montserrat",
+      "heading": "Inter",
       "body": "Inter"
     },
-    "style": "modern"
+    "style": "corporate"
   },
   "images": {
-    "hero_keyword": "modern office architecture glass",
-    "about_keyword": "team meeting creative",
+    "hero_keyword": "professional software development team in a modern office",
+    "about_keyword": "experienced web designers collaborating on a project",
     "feature_keywords": [
-      "code",
-      "design",
-      "rocket"
+      "responsive web design on multiple devices",
+      "ui/ux design wireframe",
+      "custom software development dashboard"
     ]
   },
   "content": {
     "hero": {
-      "headline": "Geleceği Şekillendiriyoruz",
-      "subheadline": "İşletmeniz için en modern teknolojileri kullanarak dijital dünyada fark yaratın.",
-      "ctaButtonText": "Hemen Başlayın"
+      "headline": "İşletmenizi Dijitale Taşıyan Kurumsal Web Çözümleri",
+      "subheadline": "İzmir'deki küçük işletmeler ve girişimciler için deneyim ve kaliteyi bir araya getirerek, hedeflerinize ulaşmanızı sağlayan modern web siteleri tasarlıyoruz.",
+      "ctaButtonText": "Ücretsiz Teklif Al"
     },
     "about": {
-      "title": "Biz Kimiz?",
-      "description": "2010 yılından beri sektörde öncü çözümler üretiyoruz. Müşteri memnuniyeti odaklı yaklaşımımızla markanızı zirveye taşıyoruz.",
+      "title": "Hakkımızda",
+      "description": "Yılların getirdiği deneyim ve kalite odaklı yaklaşımımızla, İzmir'de yazılım ve web tasarım alanında öncü çözümler sunuyoruz. Her projeye özel stratejiler geliştirerek, markanızın dijital dünyadaki en güçlü temsilcisi olmasını sağlıyoruz. Amacımız, sadece bir web sitesi değil, işletmenize değer katan dijital bir varlık inşa etmektir.",
       "stats": [
         {
-          "label": "Tamamlanan Proje",
-          "value": "500+"
+          "value": "10+",
+          "label": "Yıllık Deneyim"
         },
         {
-          "label": "Mutlu Müşteri",
-          "value": "150+"
+          "value": "100+",
+          "label": "Başarılı Proje"
         },
         {
-          "label": "Yıllık Deneyim",
-          "value": "12"
+          "value": "%99",
+          "label": "Müşteri Memnuniyeti"
         }
       ]
     },
     "services": [
       {
-        "title": "Web Tasarım",
-        "description": "Mobil uyumlu, hızlı ve modern web siteleri.",
+        "title": "Profesyonel Web Tasarım",
+        "description": "Marka kimliğinize uygun, mobil uyumlu ve SEO dostu web siteleriyle dijital dünyada bir adım öne çıkın.",
+        "icon": "🌐"
+      },
+      {
+        "title": "UI/UX Tasarımı",
+        "description": "Kullanıcılarınızı merkeze alan, estetik ve işlevsel arayüzler tasarlayarak dönüşüm oranlarınızı artırıyoruz.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Özel Yazılım Geliştirme",
+        "description": "İşletmenizin özel ihtiyaçlarına yönelik, ölçeklenebilir ve güvenli yazılım çözümleri üretiyoruz.",
         "icon": "💻"
-      },
-      {
-        "title": "SEO Optimizasyonu",
-        "description": "Google'da ilk sıralarda yerinizi alın.",
-        "icon": "🚀"
-      },
-      {
-        "title": "Sosyal Medya",
-        "description": "Markanızın sesini dünyaya duyurun.",
-        "icon": "📱"
-      }
-    ],
-    "testimonials": [
-      {
-        "name": "Ahmet Yılmaz",
-        "role": "CEO, Tech Corp",
-        "comment": "Harika bir ekip, işlerini zamanında ve mükemmel yapıyorlar."
-      },
-      {
-        "name": "Ayşe Demir",
-        "role": "Pazarlama Müdürü",
-        "comment": "Satışlarımız %200 arttı. Kesinlikle tavsiye ediyorum."
       }
     ],
     "process": [
       {
-        "step": "01",
-        "title": "Keşif ve Analiz",
-        "description": "İhtiyaçlarınızı dinliyor, hedeflerinizi belirliyoruz."
+        "step": 1,
+        "title": "Analiz ve Planlama",
+        "description": "Hedeflerinizi ve ihtiyaçlarınızı anlayarak projenizin yol haritasını oluşturuyoruz."
       },
       {
-        "step": "02",
-        "title": "Tasarım ve Planlama",
-        "description": "Modern ve kullanıcı dostu tasarımlar oluşturuyoruz."
+        "step": 2,
+        "title": "Tasarım ve Geliştirme",
+        "description": "Onaylanan plana göre modern tasarım ve temiz kodlama prensipleriyle sitenizi inşa ediyoruz."
       },
       {
-        "step": "03",
-        "title": "Geliştirme ve Teslimat",
-        "description": "Kodlama ve testleri tamamlayıp projenizi teslim ediyoruz."
+        "step": 3,
+        "title": "Test ve Yayına Alma",
+        "description": "Tüm fonksiyonları test ederek sorunsuz bir kullanıcı deneyimi sağlıyor ve sitenizi yayına alıyoruz."
+      },
+      {
+        "step": 4,
+        "title": "Destek ve Bakım",
+        "description": "Sitenizin her zaman güncel ve güvende kalması için teknik destek hizmeti sunuyoruz."
       }
     ],
     "faq": [
       {
-        "question": "Proje teslim süresi ne kadar?",
-        "answer": "Projenin kapsamına göre 2-6 hafta arasında değişmektedir."
+        "question": "Web sitesi projesi ne kadar sürer?",
+        "answer": "Projenin kapsamına ve özelliklerine bağlı olarak süreç genellikle 3 ila 8 hafta arasında değişmektedir. Detaylı analiz sonrası size net bir takvim sunuyoruz."
       },
       {
-        "question": "Ödeme koşulları nelerdir?",
-        "answer": "%50 peşin, %50 teslimat sonrası ödeme planı sunuyoruz."
+        "question": "Neden profesyonel bir web tasarım ajansıyla çalışmalıyım?",
+        "answer": "Deneyimli bir ajans, markanızın kimliğini doğru yansıtan, teknik olarak sorunsuz, güvenli ve hedeflerinize yönelik stratejik bir web sitesi oluşturarak size zaman ve kaynak tasarrufu sağlar."
       },
       {
-        "question": "Destek hizmeti veriyor musunuz?",
-        "answer": "Evet, teslim sonrası 6 ay ücretsiz teknik destek sağlıyoruz."
+        "question": "Fiyatlandırma politikanız nedir?",
+        "answer": "Her proje benzersizdir. İhtiyaçlarınızı ve hedeflerinizi dinledikten sonra size özel, şeffaf bir fiyat teklifi hazırlıyoruz. 'Teklif Al' butonuna tıklayarak bizimle iletişime geçebilirsiniz."
       }
     ],
+    "testimonials": [],
     "contact": {
-      "address": "Levent, Büyükdere Cd. No:1, İstanbul",
-      "phone": "+90 555 123 45 67",
-      "email": "info@modernajans.com",
-      "map_query": "Istanbul"
+      "address": "İzmir, Türkiye",
+      "phone": "+905541103132",
+      "email": "info@izmirwebstore.com"
     }
   }
 }
